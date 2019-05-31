@@ -1,2 +1,2 @@
-# mybulma
-My Bulma Theme
+# curjo
+My Bulma Theme for CURJO
